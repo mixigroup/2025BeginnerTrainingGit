@@ -1,0 +1,2 @@
+これは 1 番目のコミットで追加された内容です。
+This is the first commit
