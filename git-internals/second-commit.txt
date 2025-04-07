@@ -1,0 +1,2 @@
+これは 2 番目のコミットで追加された内容です。
+This is the second commit
